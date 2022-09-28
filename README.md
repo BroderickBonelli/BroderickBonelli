@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BroderickBonelli
 - 👀 I’m interested in data science and data analysis.
-- 🌱 I’m currently learning python, html, css, sql.
 - 💞️ I’m looking to collaborate on any interesting projects around investing, crypto, business, etc.
 
 <!---
