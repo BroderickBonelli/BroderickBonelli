@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BroderickBonelli
-- 👀 I’m interested in data science and data analysis.
-- 💞️ I’m looking to collaborate on any interesting projects around investing, crypto, business, etc.
+- 👀 I’m interested in Data Engineering, Analytics Engineering and Data Science. 
 
 <!---
 BroderickBonelli/BroderickBonelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
